@@ -1,0 +1,24 @@
+{
+  "cpp": {
+    "scope": "cpp",
+    "prefix": "acpp",
+    "body": [
+      "#include <iostream>",
+      "#include <cstdio>",
+      "#include <cstdlib>",
+      "",
+      "#define LENGTH 10",
+      "",
+      "using namespace std;",
+      "",
+      "int main() {",
+      "",
+      "   int arr[LENGTH];",
+      "",
+      "   return 0;",
+      "}",
+      ""
+    ],
+    "description": "C++ Standard Snippet"
+  }
+}

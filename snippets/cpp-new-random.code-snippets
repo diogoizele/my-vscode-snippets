@@ -1,0 +1,31 @@
+{
+  "random-cpp": {
+    "scope": "cpp",
+    "prefix": "nrcpp",
+    "body": [
+      "#include <random>",
+      "#include <iostream>",
+      "#include <cstdio>",
+      "#include <cstdlib>",
+      "",
+      "#define MAX 100",
+      "#define MIN 0",
+      "#define LENGTH 10",
+      "",
+      "using namespace std;",
+      "",
+      "int main() {",
+      "",
+      "   random_device rd;",
+      "   uniform_int_distribution<int> dist(MIN, MAX);",
+      "   cout << dist(rd) << endl;",
+      "",
+      "   int arr[LENGTH];",
+      "",
+      "   return 0;",
+      "}",
+      ""
+    ],
+    "description": "C++ New Random Snippet (with random_device)"
+  }
+}

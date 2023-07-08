@@ -1,0 +1,29 @@
+{
+  "random-cpp": {
+    "scope": "cpp",
+    "prefix": "rcpp",
+    "body": [
+      "#include <time.h>",
+      "#include <iostream>",
+      "#include <cstdio>",
+      "#include <cstdlib>",
+      "",
+      "// #define MAX 100",
+      "// #define MIN 0",
+      "#define LENGTH 10",
+      "",
+      "using namespace std;",
+      "",
+      "int main() {",
+      "",
+      "   srand(time(NULL));",
+      "",
+      "   int arr[LENGTH];",
+      "",
+      "   return 0;",
+      "}",
+      ""
+    ],
+    "description": "cpp with random generator template"
+  }
+}

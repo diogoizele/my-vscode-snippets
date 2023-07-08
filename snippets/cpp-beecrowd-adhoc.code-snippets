@@ -1,0 +1,25 @@
+{
+  "cpp-beecrowd-adhoc": {
+    "scope": "cpp",
+    "prefix": "bacpp",
+    "body": [
+      "/**",
+      " * exercise $TM_FILENAME_BASE",
+      " * url: https://www.beecrowd.com.br/judge/pt/problems/view/$TM_FILENAME_BASE",
+      " */",
+      "",
+      "#include <iostream>",
+      "#include <cstdio>",
+      "#include <cstdlib>",
+      "",
+      "using namespace std;",
+      "",
+      "int main() {",
+      "",
+      "  return 0;",
+      "}",
+      ""
+    ],
+    "description": "C++ Snippet for BeeCrowd exercises AD-HOC"
+  }
+}
