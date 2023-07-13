@@ -1,7 +1,7 @@
 {
   "cpp": {
     "scope": "cpp",
-    "prefix": "acpp",
+    "prefix": "mcpp",
     "body": [
       "#include <iostream>",
       "#include <cstdio>",
@@ -20,6 +20,6 @@
       "}",
       ""
     ],
-    "description": "C++ Standard Snippet"
+    "description": "C++ Standard Matrix Snippet"
   }
 }
