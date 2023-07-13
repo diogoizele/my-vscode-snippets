@@ -38,6 +38,7 @@ Here's a list of snippets available in this repository:
 - [C++ Random](snippets/cpp-random.code-snippets)
 - [C++ New Random](snippets/cpp-new-random.code-snippets)
 - [C++ Beecrowd (AD-HOC)](snippets/cpp-beecrowd-adhoc.code-snippets)
+- [C++ Matrix](snippets/cpp-matrix.code-snippets)
 
 Feel free to browse the `snippets` directory for more snippets.
 

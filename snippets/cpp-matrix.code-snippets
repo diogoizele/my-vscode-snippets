@@ -1,0 +1,25 @@
+{
+  "cpp": {
+    "scope": "cpp",
+    "prefix": "acpp",
+    "body": [
+      "#include <iostream>",
+      "#include <cstdio>",
+      "#include <cstdlib>",
+      "",
+      "#define ROWS 5",
+      "#define COLS 5",
+      "",
+      "using namespace std;",
+      "",
+      "int main() {",
+      "",
+      "   int matrix[ROWS][COLS];",
+      "",
+      "   return 0;",
+      "}",
+      ""
+    ],
+    "description": "C++ Standard Snippet"
+  }
+}
